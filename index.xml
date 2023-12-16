@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://wuwuwuzhen.github.io/wuzhen.github.io/</link>
+    <link>https://wuwuwuzhen.github.io/wuwuwuzhen.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Oct 2015 08:36:54 -0700</lastBuildDate>
-    <atom:link href="https://wuwuwuzhen.github.io/wuzhen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wuwuwuzhen.github.io/wuwuwuzhen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://wuwuwuzhen.github.io/wuzhen.github.io/about/</link>
+      <link>https://wuwuwuzhen.github.io/wuwuwuzhen.github.io/about/</link>
       <pubDate>Sat, 16 Dec 2023 15:57:18 +0800</pubDate>
-      <guid>https://wuwuwuzhen.github.io/wuzhen.github.io/about/</guid>
+      <guid>https://wuwuwuzhen.github.io/wuwuwuzhen.github.io/about/</guid>
       <description></description>
     </item>
     <item>
       <title>first</title>
-      <link>https://wuwuwuzhen.github.io/wuzhen.github.io/post/first/</link>
+      <link>https://wuwuwuzhen.github.io/wuwuwuzhen.github.io/post/first/</link>
       <pubDate>Sun, 25 Oct 2015 08:36:54 -0700</pubDate>
-      <guid>https://wuwuwuzhen.github.io/wuzhen.github.io/post/first/</guid>
+      <guid>https://wuwuwuzhen.github.io/wuwuwuzhen.github.io/post/first/</guid>
       <description>Hello Hugo aaa bbb ccc </description>
     </item>
   </channel>
